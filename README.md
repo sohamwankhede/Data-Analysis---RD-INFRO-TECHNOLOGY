@@ -3,6 +3,8 @@
 ## Project Overview
 This project focuses on analyzing customer churn data and predicting whether a customer is likely to leave a service. Using **Machine learning** and **Data Visualization** techniques, insights were derived to help businesses understand and mitigate churn.
 
+## Dashboard
+
 ## Key Features
 - **Data Analysis**: Explored customer behavior and identified key factors contributing to churn. 
 - **Machine Learning Model**: Built and trained a churn prediction model using Python.
