@@ -9,9 +9,9 @@ This project focuses on analyzing customer churn data and predicting whether a c
 - **Visualization**: Created interactive dashboards in Power BI to visualize customer trends and churn statistics.
 
 ## Technologies Used
-**Programming Language**: Python
-**Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-**Visualization Tool**: Power BI
-**IDE**: Jupyter Notebook (via VS Code extension)
+- **Programming Language**: Python
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Visualization Tool**: Power BI
+- **IDE**: Jupyter Notebook (via VS Code extension)
 
-## 
+
